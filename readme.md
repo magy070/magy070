@@ -44,7 +44,7 @@ Currently, I'm focused on mastering the MERN stack while expanding my knowledge 
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ## 🎯 Interests
