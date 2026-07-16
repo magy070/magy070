@@ -27,20 +27,26 @@ Currently, I'm focused on mastering the MERN stack while expanding my knowledge 
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-### Backend & Databases
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i= mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <br>
-  <strong>Also familiar with:</strong> Oracle Database, SQL, PL/SQL
+  <strong>Also familiar with:</strong> SQL, Oracle Database (PL/SQL)
 </p>
 
 ### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
+
 ## 🎯 Interests
 
 * Artificial Intelligence
